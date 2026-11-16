@@ -13,8 +13,8 @@ The workshop will feature two talks by experts in the field, as well as a presen
 
 # Program
 
-Time | Event  
----  | ---  
+*Time* | *Event*  
+:---  | :---  
 09:00 - 09:15 | Arrival & coffee/tea
 09:15 - 09:30 | Welcome and introduction
 09:30 - 10:15 | Presentation of the forthcoming book "Logic and AI Today" co-edited by [Johan van Benthem](https://staff.fnwi.uva.nl/j.vanbenthem/), [Levin Hornischer](https://levinhornischer.github.io/), [Thomas Icard](https://web.stanford.edu/~icard/), and [Fenrong Liu](https://fenrong.net/index.html)
